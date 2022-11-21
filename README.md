@@ -75,9 +75,10 @@ gabung=list_pertama+list
     # tampilkan dataMahasiswa menggunakan tabulate package agar tampilan berbentuk table
     print(tabulate(dataMahasiswa, headers=[
           "No", "Nama", "Nim", "Kelas", "Mata Kuliah", "Tugas", "UTS", "UAS", "Nilai Akhir", "Keterangan"], tablefmt="fancy_grid"))
-    ```
+```
  
- ![Screenshot (63)](https://user-images.githubusercontent.com/115475520/202987965-ef52df47-895a-42e1-b3bd-db497980bbda.png)
+
+![pic praktikum4](https://user-images.githubusercontent.com/115475520/202988650-785e3262-686b-43ac-b5ec-9c5060bfc7e5.png)
 
 3. Flowchart
  
